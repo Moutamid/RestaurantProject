@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833219635794",
+    "project_id": "restaurant-project-383d1",
+    "storage_bucket": "restaurant-project-383d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833219635794:android:99a3939f90e683be3ecd8b",
+        "android_client_info": {
+          "package_name": "com.moutamid.restaurantproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833219635794-6pk8hljlfj2g37bcnu3i7dc31a73tif2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWIPM4Nk15lUqWACuacB4-GQewrM-xCLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833219635794-6pk8hljlfj2g37bcnu3i7dc31a73tif2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
